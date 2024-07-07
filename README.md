@@ -1,8 +1,3 @@
-## Clone the repository (ignore if already done)
-```
-    git clone https://github.com/DASS-Spring-2024/dass-project-spring-2024-team-36.git/
-```
-Open this git folder in VS Code. Make sure you run "git" commands in the right folder only (parent directory, ```code``` directory, ```frontend``` / ```backend``` folder). 
 
 # Instructions for implementing code
 - Make sure to follow all these while implementing your part of code.
